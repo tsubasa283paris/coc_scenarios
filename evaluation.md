@@ -1,7 +1,3 @@
----
-title: "Valuation"
-tags: ""
----
 # 個人評価
 
 ## オリジナル

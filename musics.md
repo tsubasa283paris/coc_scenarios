@@ -1,7 +1,3 @@
----
-title: "Musics"
-tags: ""
----
 # Rythm用BGM
 
 -   狂気  

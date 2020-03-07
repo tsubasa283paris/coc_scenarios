@@ -1,7 +1,3 @@
----
-title: "Locker"
-tags: ""
----
 # CoCシナリオ：ロッカー
 
 <https://www.pixiv.net/novel/show.php?id=5774471>

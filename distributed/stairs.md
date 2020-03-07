@@ -1,7 +1,3 @@
----
-title: "Stairs"
-tags: ""
----
 # CoCシナリオ：ある学校の階段の怪談
 
 [元シナリオ](https://www.pixiv.net/novel/show.php?id=7000053)を改変。

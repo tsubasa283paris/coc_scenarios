@@ -1,7 +1,3 @@
----
-title: "Failure_of_the_Diviner"
-tags: ""
----
 # CoCシナリオ：占い師のしくじり
 
 推奨技能：目星, 聞き耳  

@@ -1,7 +1,3 @@
----
-title: "Abandoned_House"
-tags: ""
----
 # CoCシナリオ：食屍鬼の家
 
 推奨技能：目星, 聞き耳  

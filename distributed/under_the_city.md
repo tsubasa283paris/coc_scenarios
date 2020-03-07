@@ -1,7 +1,3 @@
----
-title: "Under_the_City"
-tags: ""
----
 # CoCシナリオ：地の底から
 
 [元シナリオ](https://www.pixiv.net/novel/show.php?id=8381369)を多少改変。
